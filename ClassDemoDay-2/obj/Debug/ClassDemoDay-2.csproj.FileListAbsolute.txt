@@ -1,0 +1,8 @@
+C:\Users\omkar\source\repos\ClassDemoDay-2\bin\Debug\ClassDemoDay-2.exe.config
+C:\Users\omkar\source\repos\ClassDemoDay-2\bin\Debug\ClassDemoDay-2.exe
+C:\Users\omkar\source\repos\ClassDemoDay-2\bin\Debug\ClassDemoDay-2.pdb
+C:\Users\omkar\source\repos\ClassDemoDay-2\obj\Debug\ClassDemoDay-2.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\ClassDemoDay-2\obj\Debug\ClassDemoDay-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\ClassDemoDay-2\obj\Debug\ClassDemoDay-2.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\ClassDemoDay-2\obj\Debug\ClassDemoDay-2.exe
+C:\Users\omkar\source\repos\ClassDemoDay-2\obj\Debug\ClassDemoDay-2.pdb

@@ -1,0 +1,8 @@
+C:\Users\omkar\source\repos\Session10-delegate\obj\Debug\Session10-delegate.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\Session10-delegate\obj\Debug\Session10-delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\Session10-delegate\obj\Debug\Session10-delegate.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\Session10-delegate\bin\Debug\Session10-delegate.exe.config
+C:\Users\omkar\source\repos\Session10-delegate\bin\Debug\Session10-delegate.exe
+C:\Users\omkar\source\repos\Session10-delegate\bin\Debug\Session10-delegate.pdb
+C:\Users\omkar\source\repos\Session10-delegate\obj\Debug\Session10-delegate.exe
+C:\Users\omkar\source\repos\Session10-delegate\obj\Debug\Session10-delegate.pdb

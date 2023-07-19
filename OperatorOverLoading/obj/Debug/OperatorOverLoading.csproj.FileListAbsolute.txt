@@ -1,0 +1,8 @@
+C:\Users\omkar\source\repos\OperatorOverLoading\obj\Debug\OperatorOverLoading.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\OperatorOverLoading\obj\Debug\OperatorOverLoading.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\OperatorOverLoading\obj\Debug\OperatorOverLoading.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\OperatorOverLoading\bin\Debug\OperatorOverLoading.exe.config
+C:\Users\omkar\source\repos\OperatorOverLoading\bin\Debug\OperatorOverLoading.exe
+C:\Users\omkar\source\repos\OperatorOverLoading\bin\Debug\OperatorOverLoading.pdb
+C:\Users\omkar\source\repos\OperatorOverLoading\obj\Debug\OperatorOverLoading.exe
+C:\Users\omkar\source\repos\OperatorOverLoading\obj\Debug\OperatorOverLoading.pdb

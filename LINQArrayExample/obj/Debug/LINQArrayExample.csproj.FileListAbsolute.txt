@@ -1,0 +1,8 @@
+C:\Users\omkar\source\repos\LINQArrayExample\bin\Debug\LINQArrayExample.exe.config
+C:\Users\omkar\source\repos\LINQArrayExample\bin\Debug\LINQArrayExample.exe
+C:\Users\omkar\source\repos\LINQArrayExample\bin\Debug\LINQArrayExample.pdb
+C:\Users\omkar\source\repos\LINQArrayExample\obj\Debug\LINQArrayExample.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\LINQArrayExample\obj\Debug\LINQArrayExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\LINQArrayExample\obj\Debug\LINQArrayExample.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\LINQArrayExample\obj\Debug\LINQArrayExample.exe
+C:\Users\omkar\source\repos\LINQArrayExample\obj\Debug\LINQArrayExample.pdb

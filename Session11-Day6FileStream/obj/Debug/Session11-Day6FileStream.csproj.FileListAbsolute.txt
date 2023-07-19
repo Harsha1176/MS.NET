@@ -1,0 +1,8 @@
+C:\Users\omkar\source\repos\Session11-Day6FileStream\bin\Debug\Session11-Day6FileStream.exe.config
+C:\Users\omkar\source\repos\Session11-Day6FileStream\bin\Debug\Session11-Day6FileStream.exe
+C:\Users\omkar\source\repos\Session11-Day6FileStream\bin\Debug\Session11-Day6FileStream.pdb
+C:\Users\omkar\source\repos\Session11-Day6FileStream\obj\Debug\Session11-Day6FileStream.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\Session11-Day6FileStream\obj\Debug\Session11-Day6FileStream.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\Session11-Day6FileStream\obj\Debug\Session11-Day6FileStream.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\Session11-Day6FileStream\obj\Debug\Session11-Day6FileStream.exe
+C:\Users\omkar\source\repos\Session11-Day6FileStream\obj\Debug\Session11-Day6FileStream.pdb

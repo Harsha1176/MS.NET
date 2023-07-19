@@ -1,0 +1,8 @@
+C:\Users\omkar\source\repos\PartialClassExample\bin\Debug\PartialClassExample.exe.config
+C:\Users\omkar\source\repos\PartialClassExample\bin\Debug\PartialClassExample.exe
+C:\Users\omkar\source\repos\PartialClassExample\bin\Debug\PartialClassExample.pdb
+C:\Users\omkar\source\repos\PartialClassExample\obj\Debug\PartialClassExample.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\PartialClassExample\obj\Debug\PartialClassExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\PartialClassExample\obj\Debug\PartialClassExample.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\PartialClassExample\obj\Debug\PartialClassExample.exe
+C:\Users\omkar\source\repos\PartialClassExample\obj\Debug\PartialClassExample.pdb

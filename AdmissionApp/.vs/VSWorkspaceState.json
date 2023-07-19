@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Migrations",
+    "\\obj",
+    "\\Views",
+    "\\Views\\Account",
+    "\\Views\\Admin"
+  ],
+  "SelectedNode": "\\Views\\Account\\ChangePassword.cshtml",
+  "PreviewInSolutionExplorer": false
+}

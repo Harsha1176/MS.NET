@@ -1,0 +1,11 @@
+C:\Users\omkar\source\repos\StudentC\bin\Debug\StudentC.exe.config
+C:\Users\omkar\source\repos\StudentC\bin\Debug\StudentC.exe
+C:\Users\omkar\source\repos\StudentC\bin\Debug\StudentC.pdb
+C:\Users\omkar\source\repos\StudentC\obj\Debug\StudentC.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\StudentC\obj\Debug\StudentC.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\StudentC\obj\Debug\StudentC.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\StudentC\obj\Debug\StudentC.exe
+C:\Users\omkar\source\repos\StudentC\obj\Debug\StudentC.pdb
+C:\Users\omkar\source\repos\StudentC\bin\Debug\ClassLibrary1.dll
+C:\Users\omkar\source\repos\StudentC\bin\Debug\ClassLibrary1.pdb
+C:\Users\omkar\source\repos\StudentC\obj\Debug\StudentC.csproj.CopyComplete

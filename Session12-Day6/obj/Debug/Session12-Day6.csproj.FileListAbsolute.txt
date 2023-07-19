@@ -1,0 +1,8 @@
+C:\Users\omkar\source\repos\Session12-Day6\bin\Debug\Session12-Day6.exe.config
+C:\Users\omkar\source\repos\Session12-Day6\bin\Debug\Session12-Day6.exe
+C:\Users\omkar\source\repos\Session12-Day6\bin\Debug\Session12-Day6.pdb
+C:\Users\omkar\source\repos\Session12-Day6\obj\Debug\Session12-Day6.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\Session12-Day6\obj\Debug\Session12-Day6.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\Session12-Day6\obj\Debug\Session12-Day6.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\Session12-Day6\obj\Debug\Session12-Day6.exe
+C:\Users\omkar\source\repos\Session12-Day6\obj\Debug\Session12-Day6.pdb

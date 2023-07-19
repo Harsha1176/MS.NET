@@ -1,0 +1,8 @@
+C:\Users\omkar\source\repos\Treading-Day7\obj\Debug\Treading-Day7.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\Treading-Day7\obj\Debug\Treading-Day7.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\Treading-Day7\obj\Debug\Treading-Day7.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\Treading-Day7\bin\Debug\Treading-Day7.exe.config
+C:\Users\omkar\source\repos\Treading-Day7\bin\Debug\Treading-Day7.exe
+C:\Users\omkar\source\repos\Treading-Day7\bin\Debug\Treading-Day7.pdb
+C:\Users\omkar\source\repos\Treading-Day7\obj\Debug\Treading-Day7.exe
+C:\Users\omkar\source\repos\Treading-Day7\obj\Debug\Treading-Day7.pdb

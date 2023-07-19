@@ -1,0 +1,8 @@
+C:\Users\omkar\source\repos\TreadLock\bin\Debug\TreadLock.exe.config
+C:\Users\omkar\source\repos\TreadLock\bin\Debug\TreadLock.exe
+C:\Users\omkar\source\repos\TreadLock\bin\Debug\TreadLock.pdb
+C:\Users\omkar\source\repos\TreadLock\obj\Debug\TreadLock.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\TreadLock\obj\Debug\TreadLock.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\TreadLock\obj\Debug\TreadLock.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\TreadLock\obj\Debug\TreadLock.exe
+C:\Users\omkar\source\repos\TreadLock\obj\Debug\TreadLock.pdb

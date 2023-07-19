@@ -1,0 +1,8 @@
+C:\Users\omkar\source\repos\SchoolFeesManagementSystem\obj\Debug\SchoolFeesManagementSystem.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\SchoolFeesManagementSystem\obj\Debug\SchoolFeesManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\SchoolFeesManagementSystem\obj\Debug\SchoolFeesManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\SchoolFeesManagementSystem\bin\Debug\SchoolFeesManagementSystem.exe.config
+C:\Users\omkar\source\repos\SchoolFeesManagementSystem\bin\Debug\SchoolFeesManagementSystem.exe
+C:\Users\omkar\source\repos\SchoolFeesManagementSystem\bin\Debug\SchoolFeesManagementSystem.pdb
+C:\Users\omkar\source\repos\SchoolFeesManagementSystem\obj\Debug\SchoolFeesManagementSystem.exe
+C:\Users\omkar\source\repos\SchoolFeesManagementSystem\obj\Debug\SchoolFeesManagementSystem.pdb

@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Session10_delegate
+{
+    internal class FuncActionPredecate
+    {
+
+        static bool IsGreaterThenZero(int x)
+        {
+            if (x <= 0) return false;
+            else
+                return true;
+        }
+        static void Main2(string[] args)
+        {
+            Predicate<int> Isvalid = IsGreaterThenZero;//Its True /False
+            bool result = Isvalid(10);
+            Console.WriteLine(result);
+
+            Action<string> printName = (message) => Console.WriteLine(message);//No Return Type
+            Action<int, int> PrintAdd = (a, b) => Console.WriteLine(a + b);//No Return Type
+            printName.Invoke("RAMU");
+            PrintAdd.Invoke(2, 3);
+
+            Func<int, int, int> PrintAddReturn = (a, b) => (a + b);// Return Type
+            Console.WriteLine(PrintAddReturn.Invoke(2, 3));
+            Console.ReadKey();
+
+
+
+        }
+    }
+}

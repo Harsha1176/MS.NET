@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBILoanApplication_Abstraction", "RBILoanApplication_Abstraction.csproj", "{7303EB5E-2172-4C2A-A485-9D36ECAABF30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7303EB5E-2172-4C2A-A485-9D36ECAABF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7303EB5E-2172-4C2A-A485-9D36ECAABF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7303EB5E-2172-4C2A-A485-9D36ECAABF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7303EB5E-2172-4C2A-A485-9D36ECAABF30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47CD2E89-2E03-4C0B-90FF-113A90EEDE5B}
+	EndGlobalSection
+EndGlobal

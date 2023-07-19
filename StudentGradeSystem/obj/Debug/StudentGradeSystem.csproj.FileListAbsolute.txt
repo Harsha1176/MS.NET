@@ -1,0 +1,8 @@
+C:\Users\omkar\source\repos\StudentGradeSystem\bin\Debug\StudentGradeSystem.exe.config
+C:\Users\omkar\source\repos\StudentGradeSystem\bin\Debug\StudentGradeSystem.exe
+C:\Users\omkar\source\repos\StudentGradeSystem\bin\Debug\StudentGradeSystem.pdb
+C:\Users\omkar\source\repos\StudentGradeSystem\obj\Debug\StudentGradeSystem.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\StudentGradeSystem\obj\Debug\StudentGradeSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\StudentGradeSystem\obj\Debug\StudentGradeSystem.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\StudentGradeSystem\obj\Debug\StudentGradeSystem.exe
+C:\Users\omkar\source\repos\StudentGradeSystem\obj\Debug\StudentGradeSystem.pdb
