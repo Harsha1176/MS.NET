@@ -1,0 +1,16 @@
+C:\Users\omkar\source\repos\Day2.2\bin\Debug\Day2.2.exe.config
+C:\Users\omkar\source\repos\Day2.2\bin\Debug\Day2.2.exe
+C:\Users\omkar\source\repos\Day2.2\bin\Debug\Day2.2.pdb
+C:\Users\omkar\source\repos\Day2.2\obj\Debug\Day2.2.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\Day2.2\obj\Debug\Day2.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\source\repos\Day2.2\obj\Debug\Day2.2.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\Day2.2\obj\Debug\Day2.2.exe
+C:\Users\omkar\source\repos\Day2.2\obj\Debug\Day2.2.pdb
+C:\Users\omkar\Desktop\MS.Net\MS.NET\repos\Day2.2\bin\Debug\Day2.2.exe.config
+C:\Users\omkar\Desktop\MS.Net\MS.NET\repos\Day2.2\bin\Debug\Day2.2.exe
+C:\Users\omkar\Desktop\MS.Net\MS.NET\repos\Day2.2\bin\Debug\Day2.2.pdb
+C:\Users\omkar\Desktop\MS.Net\MS.NET\repos\Day2.2\obj\Debug\Day2.2.csproj.AssemblyReference.cache
+C:\Users\omkar\Desktop\MS.Net\MS.NET\repos\Day2.2\obj\Debug\Day2.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\omkar\Desktop\MS.Net\MS.NET\repos\Day2.2\obj\Debug\Day2.2.csproj.CoreCompileInputs.cache
+C:\Users\omkar\Desktop\MS.Net\MS.NET\repos\Day2.2\obj\Debug\Day2.2.exe
+C:\Users\omkar\Desktop\MS.Net\MS.NET\repos\Day2.2\obj\Debug\Day2.2.pdb
