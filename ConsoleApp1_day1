@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1_day1
+{
+    internal class Class1
+    {
+        static void Main (string[] args)
+        {
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Enter your name :");
+            string Name = Console.ReadLine();
+            Console.WriteLine("my name is " + Name);
+            Console.WriteLine("Enter your Age :");
+            int age = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("My Age is :" + age);
+            Console.ReadKey();
+
+
+        }
+    }
+}
